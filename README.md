@@ -1,4 +1,5 @@
-Automated Data Review and Transformation Script This is a spreadsheet data file reviewer, specifically designed to clean and transform credit data received from credit data providers in Nigeria. The script automates the process of reviewing, validating, and transforming data from multiple Excel files, ensuring high data quality and regulatory compliance. Key functionalities include:
+Automated Data Review and Transformation Script
+This is a robust spreadsheet data file reviewer, specifically designed to clean and transform credit data received from credit data providers in Nigeria. The script automates the process of reviewing, validating, and transforming data from multiple Excel files, ensuring high data quality and regulatory compliance. Key functionalities include:
 
 Loading and Processing Excel Files: The script processes multiple Excel files from a specified directory, reviewing each sheet based on the number of columns and renaming them appropriately.
 
